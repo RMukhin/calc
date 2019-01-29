@@ -1,0 +1,31 @@
+table{
+	border: 5px solid black;
+	border-spacing: 10px;
+	border-collapse: separate;
+	margin: 0 auto;
+	width: 500px;
+}
+
+td{
+	border: 1px solid black;
+	text-align: center;
+}
+
+textarea {
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+input[type=button] {
+	color: white;
+	font-weight: bold;
+	background: blue;
+	width: 100%;
+}
+input[type=button]:hover {
+	color: white;
+	font-weight: bold;
+	background: firebrick;
+	width: 100%;
+}
